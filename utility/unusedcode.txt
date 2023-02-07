@@ -1,0 +1,106 @@
+ //old code ....
+            //card -- Info about Disease ?
+            // Padding(
+            //   padding: const EdgeInsets.all(8.0),
+            //   child: Container(
+            //     padding: EdgeInsets.symmetric(horizontal: 25.0,vertical: 25.0),
+            //     decoration: BoxDecoration(color: Config.primaryColor,
+            //         borderRadius: BorderRadius.circular(20)),
+            //     child: Row(
+            //       children: [
+            //         //left picture
+            //         Container(
+            //           height: 100,
+            //           width: 100,
+            //           color: Colors.white70,
+            //         ),
+            //         SizedBox(width: 20,),
+
+                    //name of disease plus button
+                    // Expanded(
+                    //   child: Column(
+                    //     crossAxisAlignment: CrossAxisAlignment.start,
+                    //     children: [
+                    //       Text("Diabetes",style: TextStyle(fontWeight: FontWeight.bold,
+                    //         fontSize: 16,
+                    //       ),),
+                    //       SizedBox(height: 5,),
+                    //       Text("It is disease that is a silent killer. it is also known as a sugar in many countries",
+                    //       style: TextStyle(fontSize: 14,),),
+                    //       SizedBox(height: 15,),
+                    //       Container(
+                    //         padding: EdgeInsets.all(12),
+                    //         decoration: BoxDecoration(
+                    //           borderRadius: BorderRadius.circular(12),
+                    //           color: Colors.white,
+                    //
+                    //         ),
+                    //         child: Center(
+                    //           child: Text("Learn More",style: TextStyle(
+                    //             color: Colors.black,
+                    //           ),),
+                    //         ),
+                    //       )
+                    //
+                    //     ],
+                    //   ),
+                    // )
+
+              //     ],
+              //
+              //
+              //   ),
+              // ),
+            // ),
+
+
+
+            // old code commented from here
+            //horizontal listview categories : dentist, surgeon,
+
+            //doc list
+            // SizedBox(height: 25,),
+            // Padding(
+            //   padding: const EdgeInsets.symmetric(horizontal: 25.0),
+            //   child: Row(
+            //     mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            //     children: [
+            //     Text('Doctor List',style: TextStyle(
+            //       fontWeight: FontWeight.bold,
+            //       fontSize: 20,
+            //     ),),
+            //     Text('See all',style: TextStyle(
+            //       fontSize: 16,
+            //       color: Colors.grey,
+            //     ),)
+            //   ],),
+            // ),
+            // SizedBox(height: 25,),
+
+
+           //specialities
+           //  Expanded(
+           //      child: ListView(
+           //        scrollDirection: Axis.horizontal,
+           //        children: [
+           //          SpecialityCard(
+           //            specialityIcon: 'asset/icons/tooth.png',
+           //            specialityName: 'Dentist',
+           //          ),
+           //          SpecialityCard(
+           //            specialityIcon: 'asset/icons/sore-throat.png',
+           //            specialityName: 'Dentist',
+           //          ),
+           //  ],
+           //
+           //  )),
+           //old code commented
+           // const Text(
+               //   'Category',
+               //   style: TextStyle(
+               //     fontSize: 16,
+               //     fontWeight: FontWeight.bold,
+               //   ),
+               //
+               // );
+                // category card
